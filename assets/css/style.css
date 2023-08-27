@@ -1201,3 +1201,21 @@ footer {
   height: 150px;
   padding-top: 70px;
 }
+
+.social-footer{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.card-social-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.card-social-footer {
+  color: var(--white);
+  font-size: 20px;
+}
